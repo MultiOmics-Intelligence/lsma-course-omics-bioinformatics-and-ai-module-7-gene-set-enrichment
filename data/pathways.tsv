@@ -1,0 +1,76 @@
+pathway	gene
+Glycolysis	HK1
+Glycolysis	HK2
+Glycolysis	GPI
+Glycolysis	PFKL
+Glycolysis	PFKM
+Glycolysis	ALDOA
+Glycolysis	TPI1
+Glycolysis	GAPDH
+Glycolysis	PGK1
+Glycolysis	PGAM1
+Glycolysis	ENO1
+Glycolysis	PKM
+TCA cycle	CS
+TCA cycle	ACO2
+TCA cycle	IDH3A
+TCA cycle	OGDH
+TCA cycle	SUCLA2
+TCA cycle	SDHA
+TCA cycle	SDHB
+TCA cycle	FH
+TCA cycle	MDH2
+DNA repair	BRCA1
+DNA repair	BRCA2
+DNA repair	RAD51
+DNA repair	PALB2
+DNA repair	ATM
+DNA repair	ATR
+DNA repair	MRE11
+DNA repair	RAD50
+DNA repair	NBN
+DNA repair	MLH1
+DNA repair	MSH2
+DNA repair	MSH6
+DNA repair	XRCC1
+DNA repair	PARP1
+DNA repair	ERCC1
+Cell cycle	CDK1
+Cell cycle	CDK2
+Cell cycle	CDK4
+Cell cycle	CDK6
+Cell cycle	CCNA2
+Cell cycle	CCNB1
+Cell cycle	CCND1
+Cell cycle	CCNE1
+Cell cycle	CDKN1A
+Cell cycle	CDKN2A
+Cell cycle	RB1
+Cell cycle	E2F1
+Cell cycle	CDC20
+Cell cycle	PLK1
+Cell cycle	AURKA
+Cell cycle	BUB1
+Apoptosis	BAX
+Apoptosis	BAK1
+Apoptosis	BCL2
+Apoptosis	BCL2L1
+Apoptosis	MCL1
+Apoptosis	BID
+Apoptosis	CASP3
+Apoptosis	CASP8
+Apoptosis	CASP9
+Apoptosis	APAF1
+Apoptosis	CYCS
+Apoptosis	XIAP
+Cholesterol synthesis	HMGCR
+Cholesterol synthesis	HMGCS1
+Cholesterol synthesis	MVK
+Cholesterol synthesis	PMVK
+Cholesterol synthesis	MVD
+Cholesterol synthesis	FDPS
+Cholesterol synthesis	FDFT1
+Cholesterol synthesis	SQLE
+Cholesterol synthesis	LSS
+Cholesterol synthesis	CYP51A1
+Cholesterol synthesis	DHCR7
